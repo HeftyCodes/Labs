@@ -1,0 +1,1 @@
+For lab 2 I had to create a python script that took a user's input and checked to see whether or not the number entered into the program was a prime number or not. If the number that was entered was not a prime number than the script would have to find the largest prime number less than the number given.
