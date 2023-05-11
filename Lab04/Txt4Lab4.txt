@@ -1,0 +1,108 @@
+From: stephen.marquard@uct.ac.za
+X-DSPAM-Result:     Innocent    
+X-DSPAM-Processed: Sat Jan 5 09:14:16 2008
+X-DSPAM-Confidence: 0.8475  
+From: louis@media.berkeley.edu
+X-DSPAM-Result:  Innocent    
+X-DSPAM-Processed: Fri Jan 4   18:10:48 2008
+X-DSPAM-Confidence: 0.6178  
+From: zqian@umich.edu
+X-DSPAM-Result:         Innocent
+X-DSPAM-Processed: Fri Jan      4 16:10:39 2008
+X-DSPAM-Confidence: 0.6961  
+From: rjlowe@iupui.edu
+X-DSPAM-Result:    Suspicious
+X-DSPAM-Processed: Fri Jan  4   15:46:24 2008
+X-DSPAM-Confidence: 0.3354  
+From: zqian@umich.edu
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Fri Jan  4  15:03:18 2008
+X-DSPAM-Confidence: 0.7626  
+From: rjlowe@iupui.edu
+X-DSPAM-Result:      Suspicious  
+X-DSPAM-Processed: Fri Jan  4 14:50:18 2008
+X-DSPAM-Confidence: 0.3419  
+From: strzepek@mit.edu
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Fri Jan  4 11:37:30 2008
+X-DSPAM-Confidence: 0.7002  
+From: cwen@iupui.edu
+X-DSPAM-Result:        Innocent
+X-DSPAM-Processed: Fri Jan  4 11:35:08 2008
+X-DSPAM-Confidence: 0.7615
+From: gsilver@umich.edu
+X-DSPAM-Result:     Innocent
+X-DSPAM-Processed: Fri Jan  4   11:12:37 2008
+X-DSPAM-Confidence:    0.7601
+From: gsilver@umich.edu
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Fri Jan 4 11:11:52 2008
+X-DSPAM-Confidence:  0.7605
+From: zqian@umich.edu
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Fri Jan  4 11:11:03 2008
+X-DSPAM-Confidence:         0.6959
+From: gsilver@umich.edu
+X-DSPAM-Result:     Innocent
+X-DSPAM-Processed: Fri Jan  4  11:10:22 2008
+X-DSPAM-Confidence:   0.7606
+From: wagnermr@iupui.edu
+X-DSPAM-Result:  Innocent
+X-DSPAM-Processed: Fri Jan  4       10:38:42 2008
+X-DSPAM-Confidence:   0.7559
+From: zqian@umich.edu
+X-DSPAM-Result:      Innocent
+X-DSPAM-Processed: Fri Jan   4  10:17:42 2008
+X-DSPAM-Confidence:  0.7605
+From: antranig@caret.cam.ac.uk
+X-DSPAM-Result:        Innocent
+X-DSPAM-Processed: Fri Jan      4 10:04:14 2008
+X-DSPAM-Confidence:    0.6932
+From: gopal.ramasammycook@gmail.com
+X-DSPAM-Result:     Innocent
+X-DSPAM-Processed: Fri Jan   4 09:05:31 2008
+X-DSPAM-Confidence:     0.7558
+From: david.horwitz@uct.ac.za
+X-DSPAM-Result:    Innocent
+X-DSPAM-Processed: Fri Jan   4  07:02:32 2008
+X-DSPAM-Confidence:    0.6526
+From: david.horwitz@uct.ac.za
+X-DSPAM-Result:             Suspicious
+X-DSPAM-Processed: Fri Jan  4    06:08:27 2008
+X-DSPAM-Confidence:    0.6948
+From: mspreston@anderson.edu
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Fri   Jan  4 04:49:08 2008
+X-DSPAM-Confidence:                   0.6528
+From: david.horwitz@uct.ac.za
+X-DSPAM-Result:  Innocent
+X-DSPAM-Processed:      Fri Jan  4 04:33:44 2008
+X-DSPAM-Confidence:     0.7002
+From: stephen.marquard@uct.ac.za
+X-DSPAM-Result:   Innocent
+X-DSPAM-Processed:           Fri Jan  4 04:07:34 2008
+X-DSPAM-Confidence: 0.7554
+From: louis@media.berkeley.edu
+X-DSPAM-Result:     Innocent
+X-DSPAM-Processed: Thu Jan   3   19:51:20   2008
+X-DSPAM-Confidence: 0.6956
+From: louis@media.berkeley.edu
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed:  Thu  Jan  3 17:18:23 2008
+X-DSPAM-Confidence: 0.6959
+From: ray@media.berkeley.edu
+X-DSPAM-Result:  Innocent
+X-DSPAM-Processed: Thu  Jan     3 17:07:00 2008
+X-DSPAM-Confidence:         0.7556
+From: mwfrank@anderson.edu
+X-DSPAM-Result:                     Suspicious
+X-DSPAM-Processed: Thu Jan   3 16:34:40 2008
+X-DSPAM-Confidence: 0.9846
+From: cwen@iupui.edu
+X-DSPAM-Result:    Innocent
+X-DSPAM-Processed: Thu Jan  3 16:29:07 2008
+X-DSPAM-Confidence:      0.8509
+From: cwen@iupui.edu
+X-DSPAM-Result:        Innocent
+X-DSPAM-Processed: Thu Jan          3 16:23:48 2008
+X-DSPAM-Confidence: 0.9907
