@@ -1,0 +1,1 @@
+For this lab I was instructed to make a python calculator so I just worked with basic python functions such as add,subtract,multiply, and divide. I had to take user input and then manipulate it however the user asked so if the user wished to add the two numbers than I would take input one and two and add them.
